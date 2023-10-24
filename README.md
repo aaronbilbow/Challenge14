@@ -16,7 +16,6 @@ Welcome to the Belly Button Biodiversity Dashboard! This interactive web applica
 
 ### Technologies Used
 - **HTML**;
-- **CSS**;
 - **JavaScript**;
 - **D3.js**;
 - **Plotly**;
